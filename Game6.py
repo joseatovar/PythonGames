@@ -10,7 +10,7 @@ card_images =simplegui.load_image("https://dl.dropboxusercontent.com/u/6543219/T
 
 CARD_BACK_SIZE = (71, 96)
 CARD_BACK_CENTER = (35.5, 48)
-card_back =simplegui.load_image("http://www.alice-dsl.net/d.j.peters/fb/backface.png")
+card_back =simplegui.load_image("http://commondatastorage.googleapis.com/codeskulptor-assets/card_back.png")
                      
 # initialize some useful global variables
 in_play = False
